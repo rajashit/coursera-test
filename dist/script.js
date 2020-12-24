@@ -926,7 +926,7 @@ function App() {
 
     React.createElement("div", { class: "day twitter" }, "Follow me",
 
-    React.createElement("a", { href: "https://twitter.com/HunorBorbely", target: "_blank" }, "@HunorBorbely")),
+    React.createElement("a", { href: "https://twitter.com/Ashitraj", target: "_blank" }, "@Ashitraj14")),
 
 
 
