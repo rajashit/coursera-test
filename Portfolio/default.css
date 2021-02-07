@@ -154,7 +154,6 @@ p,li,span,label,input,textarea{
     width:200px;
     object-fit:cover;
     border:2px solid var(--borderColor);
-    background-color: black;
     
 }
 
